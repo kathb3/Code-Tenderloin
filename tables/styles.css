@@ -1,0 +1,13 @@
+table, th, td {
+    border: solid 1px; 
+    border-collapse: collapse; 
+}
+
+tr:nth-child(even) {
+    background-color: lightgrey
+}
+
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 50%, rgb(131, 153, 197) 100%);
+}
